@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.vandyke.com/images/screenshots/securecrt/SCRT_9.7_system_SessionConfiguration.png" alt="SecureCRT — terminal emulator and SSH client for macOS" width="780"/>
+  <img src="https://www.vandyke.com/images/screenshots/securecrt/SCRT_9.7_Mac_SessionConfiguration.png" alt="SecureCRT — terminal emulator and SSH client for macOS" width="780"/>
 </p>
 
 ---
